@@ -22,7 +22,7 @@ public class Level2Task2Awake : MonoBehaviour
             }
             else
             {
-                Description.text = "Simply go towards the rock and it will get pushed. But if you do it without help    , it will move slowly!";
+                Description.text = "Simply go towards the rock and it will get pushed. But if you do it without help, it will move slowly!";
             }
         }
         else
